@@ -3,5 +3,9 @@
 
 ##Tecnologias utilizadass
 - WSL 
-- Docker 
+- Docker
+- Docker Hub
+
+- K3D
+- kubeclt
 
